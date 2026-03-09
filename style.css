@@ -1,0 +1,38 @@
+body{
+    background-image:url(imagens/Design\ sem\ nome\ \(1\).jpg);
+   background-size: cover;
+    background-position: center;
+}
+.fonte-redonda{
+    font-family: 'Lexend', sans-serif;
+    color: #124596;
+}
+.mavenpro{
+    font-family: 'maven pro', sans-serif;
+     font-optical-sizing: auto;
+     font-weight: 300;
+     color: #124596f1;
+}
+     .mavenpro1{
+    font-family: 'maven pro', sans-serif;
+     font-optical-sizing: auto;
+     font-weight: 300;
+     color: #fffffff1;
+}
+.abeezee{
+    font-family: 'abeezee', sans-serif;
+    font-weight: 300;
+    color: #124596c2;
+}
+.gov-logo{
+    position: absolute;
+    top: 20px;
+    left: 20px;
+    width: 120px;
+    z-index: 40;
+}
+.input{
+    width: 420px;
+    height: 55px;
+    border-radius: 25px;
+}
